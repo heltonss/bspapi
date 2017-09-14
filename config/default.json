@@ -2,7 +2,7 @@
     "mongodb": {
         "username": "bspapi",
         "password": "bspapi27h",
-        "server": "@ds135364.mlab.com",
+        "server": "ds135364.mlab.com",
         "port": "35364",
         "database": "heroku_glt0xjgk"
     }
